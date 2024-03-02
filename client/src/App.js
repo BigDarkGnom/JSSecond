@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <button>
-        hello
+        hello2
       </button>
     </div>
   );
