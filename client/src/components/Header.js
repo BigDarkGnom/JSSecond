@@ -11,10 +11,12 @@ function Header() {
 				<Link className='header-link' to={'/sandbox'}>
 					Песочница
 				</Link>
+				<Link className='header-link' to={'/crud-example'}>
+					Простой CRUD
+				</Link>
 			</div>
 		</>
 	)
 }
 
 export default Header
-
